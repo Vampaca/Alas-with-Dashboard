@@ -503,8 +503,7 @@
       "name": "DropRecord.API.name",
       "help": "DropRecord.API.help",
       "default": "default",
-      "cn_gz_reverse_proxy": "cn_gz_reverse_proxy",
-      "cn_sh_reverse_proxy": "cn_sh_reverse_proxy"
+      "cn_gz_reverse_proxy": "cn_gz_reverse_proxy"
     },
     "ResearchRecord": {
       "name": "DropRecord.ResearchRecord.name",
@@ -643,7 +642,8 @@
       "name": "Campaign.Event.name",
       "help": "Campaign.Event.help",
       "campaign_main": "campaign_main",
-      "event_20210422_cn": "讃える復興の迷路",
+      "event_20210422_cn": "讃える復興の迷路（復刻）",
+      "event_20210624_cn": "翳りし満ちる影の華(復刻)",
       "event_20230223_cn": "黙示の遺構",
       "event_20220224_cn": "鳴動せし星霜の淵",
       "event_20200806_cn": "鉄血鮫とエニグマ（復刻）",
@@ -686,7 +686,6 @@
       "event_20210722_cn": "海に響くアイドルの歌",
       "event_20210819_cn": "闇靄払う銀翼（復刻）",
       "event_20200723_cn": "極夜照らす幻光",
-      "event_20210624_cn": "翳りし満ちる影の華(復刻)",
       "event_20210624_tw": "穹頂下的聖詠曲",
       "event_20210527_tw": "微層混合",
       "event_20210429_tw": "復刻墨染的鋼鐵之花",
@@ -722,7 +721,8 @@
       "war_archives_20190620_en": "檔案 栄光なる最終戦",
       "war_archives_20190321_en": "檔案 紅染の来訪者",
       "war_archives_20191031_en": "檔案 鏡写されし異色",
-      "war_archives_20181020_en": "檔案 努力希望と計画"
+      "war_archives_20181020_en": "檔案 努力希望と計画",
+      "war_archives_20211028_cn": "檔案 神穹を衝く聖歌"
     },
     "Mode": {
       "name": "Campaign.Mode.name",
@@ -1097,6 +1097,7 @@
     "ChangeVanguard": {
       "name": "GemsFarming.ChangeVanguard.name",
       "help": "GemsFarming.ChangeVanguard.help",
+      "disabled": "disabled",
       "ship": "ship",
       "ship_equip": "ship_equip"
     },
